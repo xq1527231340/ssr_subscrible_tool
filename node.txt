@@ -4,6 +4,4 @@
 
 vmess://eyJ hZGQiOiJ6ejIua2djbG91ZC5jbHViIiwiYWlkIjoyLCJob3N0IjoienoyLmtnY2xvdWQuY2x1YiIsImlkIjoiMDI1ZGIwYWYtMzM1Mi00OTViLTgyMzctYmNiZDY0NzUwM2YyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM1NjgwLCJwcyI6IuWPsOa5vuS9juW7tui/n3xUR+mikemBk++8iGJhaXBpYW9qaWVkaWFu77yJIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
-# joyo.ga节点
-
 
