@@ -1,8 +1,8 @@
 # 节点列表
 
-# joyo.ga节点香港2
+# joyo.ga节点
 
-ssr://Y20tMS5zc3BsaW5rcy5wdzo1MDAyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOdy8_b2Jmc3BhcmFtPU9EVm1NVGcyTWpjdWJXbGpjbTl6YjJaMExtTnZiUSZwcm90b3BhcmFtPU5qSTNPbEkzZGxoMlN3JnJlbWFya3M9NmFhWjVyaXZJREkmZ3JvdXA9ZGpKeVlYaw
+
 
 # joyo.ga节点
 
