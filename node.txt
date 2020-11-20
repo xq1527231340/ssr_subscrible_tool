@@ -48,97 +48,17 @@ ssr://aXBsYzIucTg4cS5ncToxNTE2NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aW
 
 ssr://dmhrMzAucTg4cS5tbDoxNTE2MzphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaWEJEYUVwVE16Vm1WZy8_b2Jmc3BhcmFtPU1tUTNOV1UyTWpNdVltRnBaSFV1WTI5dCZwcm90b3BhcmFtPU5qSXpPbTgyZUdjMWFERTJaR1JsJnJlbWFya3M9NmFhWjVyaXZNVE1nNXAybDVycVFhSFIwY0hNNkx5OTBMbTFsTDFocGJtRnVZVjloZDNOcyZncm91cD1WbEJPNkwydjVMdTI1by1RNVktVw
 
-# joyo.ga节点新加坡14
-
-vmess://eyJhZGQiOiJzZy50aWt0b2sucGFnZSIsImFpZCI6MTYsImhvc3QiOiJzZy50aWt0b2sucGFnZSIsImlkIjoiMDdhMzhlOTgtMTA5NS0zZjMwLWFkNzEtZDIyNWZkZTEyY2EwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwicG9ydCI6NDQzLCJwcyI6IuaWsOWKoOWdoTE0IOadpea6kGh0dHBzOi8vdC5tZS9YaW5hbmFfYXdzbCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
-# joyo.ga节点日本15
-
-trojan://2e4557b4-bb55-4277-aea8-ec86b0e8cdd9@fuckxiaofenhong.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC15%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
 # joyo.ga节点日本16
 
 ssr://Y24tc2gwNC5lamdsY2xqNmFtbjJlYTdoLm5vZGUuY2NjeWxpbmsubmV0d29yazo4MzExOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpUR3AwUm5wNS8_b2Jmc3BhcmFtPVl6WTFaREU0T0RRMU5pNXRhV055YjNOdlpuUXVZMjl0JnByb3RvcGFyYW09T0RnME5UWTZUbFZEWlRJMCZyZW1hcmtzPTVwZWw1cHlzTVRZZzVwMmw1cnFRYUhSMGNITTZMeTkwTG0xbEwxaHBibUZ1WVY5aGQzTnMmZ3JvdXA9NklxQzU0SzU
-
-# joyo.ga节点日本17
-
-trojan://6aae799b-ba61-4029-a565-e2fd1bed85a9@fuckxiaofenhong.gq:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC17%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点日本18
-
-trojan://18fd1888-64dd-4f8c-8287-89b17c1f6e88@milkgogo.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC18%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点日本19
-
-trojan://91dd199d-f442-4615-9031-0c2e163a3533@fuckxiaofenhong.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC19%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点日本20
-
-trojan://9e8ba352-4335-40d7-b01b-59611024ace0@fuckxiaofenhong.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC20%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点A21
-
-vmess://eyJhZGQiOiJ4aWJ1bi5jZiIsImFpZCI6NDYsImhvc3QiOiJ4aWJ1bi5jZiIsImlkIjoiNDQzM2U3NTItMjdkYS0xMWViLTk5MzctNTYwMDAzMTA2ZThmIiwibmV0Ijoid3MiLCJwYXRoIjoiLzk4ck9zMm9KLyIsInBvcnQiOjQ0MywicHMiOiJBMjEg5p2l5rqQaHR0cHM6Ly90Lm1lL1hpbmFuYV9hd3NsIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-# joyo.ga节点韩国22
-
-trojan://1605b14d-87c5-446e-a8e1-8078d42970f3@fuckxijinping.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%9F%A9%E5%9B%BD22%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点韩国23
-
-trojan://ea1ddbb5-8de9-410e-98e4-646e15139d53@fuckxijinping.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%9F%A9%E5%9B%BD23%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点日本24
-
-trojan://d6c4fcc1-1656-4b78-b878-0df15bcbb1e9@fuckxiaofenhong.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC24%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点美国25
-
-vmess://eyJhZGQiOiJyYWNrLnRpa3Rvay5wYWdlIiwiYWlkIjoxNiwiaG9zdCI6InJhY2sudGlrdG9rLnBhZ2UiLCJpZCI6IjA3YTM4ZTk4LTEwOTUtM2YzMC1hZDcxLWQyMjVmZGUxMmNhMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheSIsInBvcnQiOjQ0MywicHMiOiLnvo7lm70yNSDmnaXmupBodHRwczovL3QubWUvWGluYW5hX2F3c2wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-# joyo.ga节点西雅图26
-
-trojan://44fc82f4-2dab-4713-b666-a7636cd504e0@xibun.gq:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E8%A5%BF%E9%9B%85%E5%9B%BE26%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点韩国27
-
-vmess://eyJhZGQiOiJjaGluYWhyLmNmIiwiYWlkIjo0NiwiaG9zdCI6ImNoaW5haHIuY2YiLCJpZCI6IjRmMGIxOTA2LTI5ODQtMTFlYi1hMTY3LTU2MDAwMzExMmUzNyIsIm5ldCI6IndzIiwicGF0aCI6Ii92cGZScVF4Qi8iLCJwb3J0Ijo0NDMsInBzIjoi6Z+p5Zu9Mjcg5p2l5rqQaHR0cHM6Ly90Lm1lL1hpbmFuYV9hd3NsIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-# joyo.ga节点韩国28
-
-trojan://0aa7a4e5-7184-4c4c-a34a-f0ff95760b4a@trotro.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%9F%A9%E5%9B%BD28%20%E6%9D%A5%E6%BA%90https%3A%2F%2Ft.me%2FXinana_awsl
-
-# joyo.ga节点韩国29
-
-vmess://eyJhZGQiOiJiaWdzdXIuY2YiLCJhaWQiOjQ2LCJob3N0IjoiYmlnc3VyLmNmIiwiaWQiOiI3YTJmMzgzYS0yN2Q5LTExZWItODE2YS01NjAwMDMxMDZkZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIveWF4a0ZDS0kvIiwicG9ydCI6NDQzLCJwcyI6IumfqeWbvTI5IOadpea6kGh0dHBzOi8vdC5tZS9YaW5hbmFfYXdzbCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
 # joyo.ga节点韩国30
 
 vmess://eyJhZGQiOiJsaXR0bGVzdXIubWwiLCJhaWQiOjQ2LCJob3N0IjoibGl0dGxlc3VyLm1sIiwiaWQiOiI0ZmJkYjE0Yy0yOTg0LTExZWItYjJiYS01NjAwMDMxMTJlMGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdzJYc1M0MVAvIiwicG9ydCI6NDQzLCJwcyI6IumfqeWbvTMwIOadpea6kGh0dHBzOi8vdC5tZS9YaW5hbmFfYXdzbCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
-# joyo.ga节点香港31
-
-vmess://eyJhZGQiOiJoay50aWt0b2sucGFnZSIsImFpZCI6MTYsImhvc3QiOiJoay50aWt0b2sucGFnZSIsImlkIjoiMDdhMzhlOTgtMTA5NS0zZjMwLWFkNzEtZDIyNWZkZTEyY2EwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwicG9ydCI6NDQzLCJwcyI6Iummmea4rzMxIOadpea6kGh0dHBzOi8vdC5tZS9YaW5hbmFfYXdzbCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
 # joyo.ga节点巴西32
 
 vmess://eyJhZGQiOiJhbnktYnIubGl5dW4uZWR1LnBsIiwiYWlkIjo3LCJob3N0IjoiZ2l0aHViLmNvbSIsImlkIjoiZWI2YTg5OWYtZWE5Yi0zN2Q3LTkyMDktYWQ5YzQ1YzcyZTdhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xvZ2luIiwicG9ydCI6NDk5MjMsInBzIjoi8J+Hp/Cfh7flt7Topb8zMiDmnaXmupBodHRwczovL3QubWUvWGluYW5hX2F3c2wiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-# joyo.ga节点香港33
-
-vmess://eyJhZGQiOiJhZ2EtYS50eHdkLnh5eiIsImFpZCI6MSwiaWQiOiJlODNkZTFmNC1jODE1LTNjZjgtOTdiMy03ZTZjMDE5MjUxNjQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozNDM0MSwicHMiOiLwn4et8J+HsOmmmea4rzMzIOadpea6kGh0dHBzOi8vdC5tZS9YaW5hbmFfYXdzbCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-# joyo.ga节点香港34
-
-vmess://eyJhZGQiOiJhZ2EtYS50eHdkLnh5eiIsImFpZCI6MSwiaWQiOiJkNWQxNmJlNy0wZDUzLTM4MGMtYTU2My1hNzc3MmRmMTJlYjgiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozNDM0MSwicHMiOiLwn4et8J+HsOmmmea4rzM0IOadpea6kGh0dHBzOi8vdC5tZS9YaW5hbmFfYXdzbCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
-
-# joyo.ga节点香港35
-
-vmess://eyJhZGQiOiJhNjZjYmQ5NGExZmY5MGEzMi5hd3NnbG9iYWxhY2NlbGVyYXRvci5jb20iLCJhaWQiOjIsImhvc3QiOiIiLCJpZCI6IjVjZjMzNWQ5LWY3ODMtNGQ5NS04OWIyLTg5OGZlYzRiMTlmMyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOjgxMjEsInBzIjoi8J+HrfCfh7DpppnmuK8zNSDmnaXmupBodHRwczovL3QubWUvWGluYW5hX2F3c2wiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
-
-# joyo.ga节点香港36
-
-vmess://eyJhZGQiOiIxODMxNzkwMzcyMDcuY3RpbmV0cy5jb20iLCJhaWQiOjIzLCJob3N0Ijoid3d3LmhrYm4ubmV0IiwiaWQiOiJkODBlYTA2My1jODlkLTNhZGMtYmVkMC0yODE3MjM1NDgzMTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd29haWt1biIsInBvcnQiOjY0MzEwLCJwcyI6IvCfh63wn4ew6aaZ5rivMzYg5p2l5rqQaHR0cHM6Ly90Lm1lL1hpbmFuYV9hd3NsIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
 # joyo.ga节点
 
