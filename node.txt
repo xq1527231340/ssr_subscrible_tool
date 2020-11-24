@@ -48,10 +48,6 @@ vmess://eyJhZGQiOiI3Ni4yMjMuNDEuMTY1IiwiYWlkIjoyLCJob3N0IjoiR2xvYmFsLVlVUUpYLjIz
 
 vmess://eyJhZGQiOiI0MC42NS4xMzQuOTEiLCJhaWQiOjIsImhvc3QiOiJTRzAxLTEtMEpJMTcuMjMzY2xvdWQtbm9kZS5jb20iLCJpZCI6IjQwZDI0NWM3LTEzOGYtM2EyNS1hYTI2LTJiYmNiZjRhMTdhZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheS8yMzN5dW4ueHl6IiwicG9ydCI6MjMzLCJwcyI6IuaWsOWKoOWdoTI5IEBzaGFyZWNlbnRyZSIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
-# joyo.ga节点30
-
-vmess://eyJhZGQiOiI3Ni4yMjMuNDEuMTY1IiwiYWlkIjoyLCJob3N0IjoiR2xvYmFsLVlVUUpYLjIzM2Nsb3VkLW5vZGUuY29tIiwiaWQiOiI0MGQyNDVjNy0xMzhmLTNhMjUtYWEyNi0yYmJjYmY0YTE3YWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkvMjMzeXVuLnh5eiIsInBvcnQiOjIzMzY1LCJwcyI6IjMwIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
 # joyo.ga节点31
 
 vmess://eyJhZGQiOiI3Ni4yMjMuNDYuMTAwIiwiYWlkIjoyLCJob3N0IjoiIiwiaWQiOiI1Y2YzMzVkOS1mNzgzLTRkOTUtODliMi04OThmZWM0YjE5ZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiLpppnmuK8zMSBAc2hhcmVjZW50cmUiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
@@ -68,17 +64,9 @@ vmess://eyJhZGQiOiIyMy45Ny42Ny4xNzQiLCJhaWQiOjIsImhvc3QiOiJISzAzLTEtS1BCQVAuMjMz
 
 vmess://eyJhZGQiOiJhOTUzNzViNGQ2ZTljODU0Ni5hd3NnbG9iYWxhY2NlbGVyYXRvci5jb20iLCJhaWQiOjIsImhvc3QiOiIiLCJpZCI6IjVjZjMzNWQ5LWY3ODMtNGQ5NS04OWIyLTg5OGZlYzRiMTlmMyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOjgwODAsInBzIjoi6aaZ5rivMzkgQHNoYXJlY2VudHJlIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
-# joyo.ga节点41
-
-vmess://eyJhZGQiOiIxNTguMjQ3LjE5My4xMTUiLCJhaWQiOjAsImlkIjoiYWI2Y2Q2Y2YtMDA0MS00MTZmLWI3YjMtYTI0Njc0YTNkOWJlIiwibmV0IjoidGNwIiwicG9ydCI6NDI5MDgsInBzIjoi6Z+p5Zu9NDEgQHNoYXJlY2VudHJlIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
 # joyo.ga节点45
 
 vmess://eyJhZGQiOiI0MC42NS4xMzQuOTEiLCJhaWQiOjIsImhvc3QiOiJTRzAxLTEtMEpJMTcuMjMzY2xvdWQtbm9kZS5jb20iLCJpZCI6IjQwZDI0NWM3LTEzOGYtM2EyNS1hYTI2LTJiYmNiZjRhMTdhZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92MnJheS8yMzN5dW4ueHl6IiwicG9ydCI6MjMzLCJwcyI6IuaWsOWKoOWdofCfh7jwn4esfDQ1IiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
-# joyo.ga节点46
-
-vmess://eyJhZGQiOiIxLjAuMC4xIiwiYWlkIjoyLCJob3N0IjoiZnJlZXVzLm1jYW4udGVjaCIsImlkIjoiOWU2Y2VlZmYtMjU0Ni0zNjkwLWFjMDAtNmZjZGYzMWRlYzk0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3kyODQiLCJwb3J0Ijo0NDMsInBzIjoi576O5Zu9Q0RONDYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
 
 # joyo.ga节点47
 
@@ -91,90 +79,6 @@ vmess://eyJhZGQiOiIxMy4yNDguMTYwLjExMyIsImFpZCI6MiwiaG9zdCI6IiIsImlkIjoiNWNmMzM1
 # joyo.ga节点49
 
 vmess://eyJhZGQiOiI3Ni4yMjMuNDEuMTY1IiwiYWlkIjoyLCJob3N0IjoiR2xvYmFsLVlVUUpYLjIzM2Nsb3VkLW5vZGUuY29tIiwiaWQiOiI0MGQyNDVjNy0xMzhmLTNhMjUtYWEyNi0yYmJjYmY0YTE3YWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkvMjMzeXVuLnh5eiIsInBvcnQiOjIzMzY3LCJwcyI6IvCfh63wn4ew6aaZ5rivQVdTfDQ5IiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
-
-# joyo.ga节点50
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@a021b181ec4725251.awsglobalaccelerator.com:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#AGA%E9%A6%99%E6%B8%AF50
-
-# joyo.ga节点51
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@a33fecf90fa2aa922.awsglobalaccelerator.com:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#AGA%E9%A6%99%E6%B8%AF51
-
-# joyo.ga节点52
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:11107?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF52
-
-# joyo.ga节点53
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:22000?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF53
-
-# joyo.ga节点54
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:11002?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF54
-
-# joyo.ga节点55
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@xzcu.michalai.xyz:23002?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF55
-
-# joyo.ga节点56
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:23005?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF56
-
-# joyo.ga节点57
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:11104?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%96%B0%E5%8A%A0%E5%9D%A157
-
-# joyo.ga节点58
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:11110?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%96%B0%E5%8A%A0%E5%9D%A158
-
-# joyo.ga节点59
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:11105?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%96%B0%E5%8A%A0%E5%9D%A159
-
-# joyo.ga节点60
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@xzcu.michalai.xyz:22002?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E7%BE%8E%E5%9B%BD60
-
-# joyo.ga节点61
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:11109?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E7%BE%8E%E5%9B%BD61
-
-# joyo.ga节点62
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:23303?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E7%BE%8E%E5%9B%BD62
-
-# joyo.ga节点63
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@xzcu.michalai.xyz:22001?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC63
-
-# joyo.ga节点64
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@xzcu.michalai.xyz:30002?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC64
-
-# joyo.ga节点65
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:25500?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E5%8F%B0%E6%B9%BE65
-
-# joyo.ga节点66
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:23006?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E5%8F%B0%E6%B9%BE66
-
-# joyo.ga节点67
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@gzcm.michalai.xyz:11000?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E5%8F%B0%E6%B9%BE67
-
-# joyo.ga节点68
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:11112?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E8%8B%B1%E5%9B%BD68
-
-# joyo.ga节点69
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@cscu.michalai.xyz:23300?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A69
-
-# joyo.ga节点70
-
-trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@xzcu.michalai.xyz:23302?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E5%BE%B7%E5%9B%BD70
 
 # joyo.ga节点
 
