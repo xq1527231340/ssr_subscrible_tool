@@ -80,13 +80,13 @@ vmess://eyJhZGQiOiIxMy4yNDguMTYwLjExMyIsImFpZCI6MiwiaG9zdCI6IiIsImlkIjoiNWNmMzM1
 
 vmess://eyJhZGQiOiI3Ni4yMjMuNDEuMTY1IiwiYWlkIjoyLCJob3N0IjoiR2xvYmFsLVlVUUpYLjIzM2Nsb3VkLW5vZGUuY29tIiwiaWQiOiI0MGQyNDVjNy0xMzhmLTNhMjUtYWEyNi0yYmJjYmY0YTE3YWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkvMjMzeXVuLnh5eiIsInBvcnQiOjIzMzY3LCJwcyI6IvCfh63wn4ew6aaZ5rivQVdTfDQ5IiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
 
-# joyo.ga节点
+# joyo.ga节点50
 
+ssr://MTU0LjIyMi4zMS4xOTc6Mzk2MTphdXRoX3NoYTFfdjQ6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6WkhocFlXOW9kV0V4T1RnNS8_b2Jmc3BhcmFtPSZyZW1hcmtzPU5UQSZncm91cD02SXFDNTRLNQ
 
+# joyo.ga节点51
 
-# joyo.ga节点
-
-
+trojan://307ff68d-bf1f-417b-8731-390931dbf6bf@a021b181ec4725251.awsglobalaccelerator.com:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#51
 
 # joyo.ga节点
 
