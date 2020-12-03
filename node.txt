@@ -101,7 +101,7 @@ ssr://dnVzMS5xODhxLm1sOjE1MTYyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6dGxzMS4yX3RpY2
 
 # joyo.ga节点24
 
-vmess://eyJhZGQiOiI1Mi4xNzUuNzAuMTM5IiwiYWlkIjoyLCJob3N0Ijoid3d3LmJpbmcuY29tIiwiaWQiOiJiZjNiOWZjZC0zYjE3LTMwYjItOGY3ZC1jNmZjYjA4Mzk4MmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJyYXkiLCJwb3J0Ijo0MTAsInBzIjoi6aaZ5rivMjQgQHNoYXJlY2VudHJlIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6Mn0=
+
 
 # joyo.ga节点25
 
