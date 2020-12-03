@@ -125,19 +125,17 @@ vmess://eyJhZGQiOiIxMjAuMjMyLjQzLjE1MiIsImFpZCI6MiwiaG9zdCI6ImgxLnl0MDAzLnh5eiIs
 
 # joyo.ga节点30
 
-vmess://eyJhZGQiOiIxMjAuMjMyLjk2LjEwMSIsImFpZCI6MiwiaG9zdCI6ImoyLnl0MDAyLnh5eiIsImlkIjoiY2IyMDBkZjgtNWFhZi0zMDJkLTgzOGMtNWUxYmQyYmM1ZWJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5IiwicG9ydCI6MjAwOTIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysVnVsdHIgMzAgQHNoYXJlY2VudHJlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoyfQ==
+
 
 # joyo.ga节点31
 
-trojan://xRTJZKr04adc@a.newword.site:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#TROJAN-%E6%97%A5%E6%9C%AC31
+
 
 # joyo.ga节点32
 
-trojan://yV53iwXTqBQm@b.newword.site:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#TROJAN-%E6%97%A5%E6%9C%AC32
+
 
 # joyo.ga节点33
-
-trojan://d78e9006-e6bb-4248-bc49-1c69037482a1@aga.nayun.xyz:24571?allowInsecure=1&allowInsecureHostname=1&allowInsecureCertificate=1&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AFAGA%2033
 
 
 
