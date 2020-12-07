@@ -74,31 +74,31 @@ vmess://eyJhZGQiOiJ4aWJ1bi5jZiIsImFpZCI6MTIsImhvc3QiOiJ4aWJ1bi5jZiIsImlkIjoiNmEz
 
 # joyo.ga节点17
 
-trojan://3015bfd4-24fc-46d3-adc3-5a32adab84b6@fuckxiaofenhong.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#17
+
 
 # joyo.ga节点18
 
-trojan://8634ea4d-e421-464d-9859-bdd6e0a4f54f@fuckxiaofenhong.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC18
+
 
 # joyo.ga节点19
 
-trojan://59b8270c-c4e5-403d-bcf1-4ff13f3a9b1a@chinahright.ml:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC19
+
 
 # joyo.ga节点20
 
-trojan://261f1a04-6cdc-4f34-91e2-1f2c4d1ad319@fuckxibaozi.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E6%97%A5%E6%9C%AC20
+
 
 # joyo.ga节点21
 
-trojan://ebda4233-581b-4658-9405-d1c38e40ffef@fuckxijinping.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#21
+
 
 # joyo.ga节点22
 
-trojan://a69c4593-2938-413a-bfde-d163f7d29554@fuckxijinping.cf:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#22
+
 
 # joyo.ga节点23
 
-trojan://706914ec-d0e7-49ba-b196-28f857a066ed@fuckxiaofenhong.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#23
+
 
 # joyo.ga节点24
 
