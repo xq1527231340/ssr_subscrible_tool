@@ -134,7 +134,7 @@ vmess://eyJhZGQiOiJsaXR0bGVzdXIubWwiLCJhaWQiOjEyLCJob3N0IjoibGl0dGxlc3VyLm1sIiwi
 
 # joyo.ga节点32
 
-trojan://ea3e65a1-6ed8-405c-8b45-b78bf1fffd3a@fuckxijinping.ga:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%9F%A9%E5%9B%BD32
+
 
 # joyo.ga节点33
 
