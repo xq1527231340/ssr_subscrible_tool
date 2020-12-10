@@ -26,19 +26,19 @@ vmess://eyJhZGQiOiJnemN1LnNub2RlLnRvcCIsImFpZCI6MiwiaG9zdCI6Im4zLnp6MzIxLmNuIiwi
 
 # joyo.ga节点5
 
-
+trojan://1MgqymhGvMMm38Ns@www.zx08.party:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF5
 
 # joyo.ga节点6
 
-
+trojan://PuIDXohohGWMhMwY@www.zhanan16.date:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF6
 
 # joyo.ga节点7
 
-
+trojan://0hTvU0v7FBMgG2Lw@www.zhanan13.bid:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E9%A6%99%E6%B8%AF7
 
 # joyo.ga节点8
 
-
+trojan://973e60ef2fcf@cloudcone1.nthuscience.xyz:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#%E7%BE%8E%E5%9B%BD2
 
 # joyo.ga节点9
 
